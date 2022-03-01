@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <Error><Code>AccessDenied</Code><Message>Request has expired</Message><X-Amz-Expires>120</X-Amz-Expires><Expires>2022-02-22T13:01:07Z</Expires><ServerTime>2022-03-01T10:45:40Z</ServerTime><RequestId>BPRKWQ2XD85VS3P4</RequestId><HostId>bhOUm7/e+wSBaB1LATozROzWWxw2p4cVh+HGcoSwjc+BoDz76DNbjOhrTMfNfbyinqoGpB7qG6Y=</HostId></Error>
+=======
+<Error><Code>AccessDenied</Code><Message>Request has expired</Message><X-Amz-Expires>120</X-Amz-Expires><Expires>2022-02-22T13:01:07Z</Expires><ServerTime>2022-03-01T10:44:09Z</ServerTime><RequestId>FH0KXZ8Y4WDHPCW5</RequestId><HostId>BIWZeobNhakjyPZSlEdX3KIEwLpt+BYDq8ZLvtQedYBelqnSVos3pbiqD04uSP//QkzZy/iRxJ4=</HostId></Error>
+>>>>>>> develop
